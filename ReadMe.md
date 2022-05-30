@@ -1,4 +1,4 @@
-Hi 👋 My name is Ziv cohen gvura
+Hi 👋 My name is Ziv Cohen Gvura
 ================================
 
 Software Engineer Student
